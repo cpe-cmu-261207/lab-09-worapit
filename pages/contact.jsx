@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 
 export default function contact() {
   return (
-    <div>
+    <div style={{ backgroundColor: "indianred" }}>
       <div>
         <Navbar
           home="btn btn-outline-light"
